@@ -4,7 +4,7 @@ description: A personal Packet Tracer lab on diagnosing a VLAN connectivity issu
 date: 2026-10-18
 category: Networking
 slug: vlan-connectivity-lab
-draft: false
+draft: true
 ---
 
 This is a personal Packet Tracer lab.
